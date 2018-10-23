@@ -1,0 +1,14 @@
+D:\RealPro\RealSocket\SocketLib\SocketLib\bin\Debug\SocketLib.dll
+D:\RealPro\RealSocket\SocketLib\SocketLib\bin\Debug\SocketLib.pdb
+D:\RealPro\RealSocket\SocketLib\SocketLib\obj\Debug\SocketLib.dll
+D:\RealPro\RealSocket\SocketLib\SocketLib\obj\Debug\SocketLib.pdb
+D:\RealPro\RealSocket\SocketLib\SocketLib\obj\Debug\SocketLib.csprojResolveAssemblyReference.cache
+D:\RealPro\CodeWheels\RealSocket\SocketLib\SocketLib\bin\Debug\SocketLib.dll
+D:\RealPro\CodeWheels\RealSocket\SocketLib\SocketLib\bin\Debug\SocketLib.pdb
+D:\RealPro\CodeWheels\RealSocket\SocketLib\SocketLib\obj\Debug\SocketLib.dll
+D:\RealPro\CodeWheels\RealSocket\SocketLib\SocketLib\obj\Debug\SocketLib.pdb
+C:\Me\Real\RealSocket\SocketLib\SocketLib\bin\Debug\SocketLib.dll
+C:\Me\Real\RealSocket\SocketLib\SocketLib\bin\Debug\SocketLib.pdb
+C:\Me\Real\RealSocket\SocketLib\SocketLib\obj\Debug\SocketLib.dll
+C:\Me\Real\RealSocket\SocketLib\SocketLib\obj\Debug\SocketLib.pdb
+D:\RealPro\CodeWheels\RealSocket\SocketLib\SocketLib\obj\Debug\SocketLib.csprojResolveAssemblyReference.cache

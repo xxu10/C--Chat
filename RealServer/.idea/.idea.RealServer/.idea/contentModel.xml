@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_RealServer.-1675244512.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Administrator\Desktop\IM\RealServer" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RealServer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClassDiagram1.cd" t="Include" />
+        <e p="Faces" t="Include">
+          <e p="default.face" t="Include" />
+          <e p="default2.face" t="Include" />
+        </e>
+        <e p="HeartBeat.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="ProcessReceive" t="Include">
+          <e p="IProcessReceive.cs" t="Include" />
+          <e p="ProcessDefault.cs" t="Include" />
+          <e p="ProcessDownloadFaces.cs" t="Include" />
+          <e p="ProcessFileMsg.cs" t="Include" />
+          <e p="ProcessGetFriends.cs" t="Include" />
+          <e p="ProcessHeartBeat.cs" t="Include" />
+          <e p="ProcessLogin.cs" t="Include" />
+          <e p="ProcessLogout.cs" t="Include" />
+          <e p="ProcessProtocolIllegal.cs" t="Include" />
+          <e p="ProcessRegist.cs" t="Include" />
+          <e p="ProcessTxtMsg.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RealServer.csproj" t="IncludeRecursive" />
+        <e p="Server.cs" t="Include" />
+        <e p="UserService.cs" t="Include" />
+      </e>
+      <e p="RealServer.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

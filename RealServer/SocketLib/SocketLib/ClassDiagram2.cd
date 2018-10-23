@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SocketLib.Msg.FileMsg">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAABMAAAAAAAEAAAQAACAAAAAAAAABAAABgAAg=</HashCode>
+      <FileName>Msg\FileMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.FriendsListMsg">
+    <Position X="7.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABEAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Msg\FriendsListMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.GetFriendMsg">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAgAA=</HashCode>
+      <FileName>Msg\GetFriendMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.HeartBeatMsg">
+    <Position X="20.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAgAA=</HashCode>
+      <FileName>Msg\HeartBeatMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.LoginMsg">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABEAAAAAAAAAAAAAAAAAAAAAEEQAAAAAAgAA=</HashCode>
+      <FileName>Msg\LoginMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.LoginResultMsg">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Msg\LoginResultMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.LogoutMsg">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAgAA=</HashCode>
+      <FileName>Msg\LogoutMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.MsgBase">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAABEAAAAAAAEAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Msg\MsgBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.NewUserOnlineMsg">
+    <Position X="5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABEAAAAAAAAAAAAAAAAAAAAEAAQAAAAAAoAA=</HashCode>
+      <FileName>Msg\NewUserOnlineMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.RegistMsg">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABEAAAAAAAAAAAAAAAAAAAAAEEQAAAAAAgAA=</HashCode>
+      <FileName>Msg\RegistMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.RegistResultMsg">
+    <Position X="18.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABEAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Msg\RegistResultMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketLib.Msg.TxtMsg">
+    <Position X="23" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQABMAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAA=</HashCode>
+      <FileName>Msg\TxtMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
